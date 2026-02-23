@@ -154,6 +154,9 @@ cython_debug/
 .vscode/
 *.code-workspace
 
+# Claude Code
+.claude/
+
 # Jupyter Notebook
 .ipynb
 
@@ -177,6 +180,7 @@ Desktop.ini
 # Temporary files
 *.tmp
 *.temp
+*.backup
 
 # Logs
 *.log
